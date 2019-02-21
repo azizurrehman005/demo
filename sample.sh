@@ -1,2 +1,0 @@
-echo "Helllo"
-hostnam
